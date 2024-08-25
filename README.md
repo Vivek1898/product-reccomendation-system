@@ -20,7 +20,7 @@ This project implements a product recommendation system for Walmart customers us
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/product-recommendation-system.git
+   git clone https://github.com/vivek1898/product-recommendation-system.git
    cd walmart-recommendation-system
    ```
 
