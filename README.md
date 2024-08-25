@@ -1,7 +1,11 @@
 
 # Walmart Product Recommendation System
 
-This project implements a product recommendation system for Walmart customers using the Alternating Least Squares (ALS) model from the `implicit` library. The system provides personalized product recommendations based on historical purchase data.
+This project implements a product recommendation system for Walmart customers using the Alternating Least Squares (ALS) model from the `implicit` library. The system provides personalized product recommendations based on historical purchase data with `userId`.
+
+<img width="1506" alt="Screenshot 2024-08-25 at 4 42 09 PM" src="https://github.com/user-attachments/assets/69c529b8-1acc-4ee8-9c3e-a6f3e97d0ba3">
+
+
 
 ## Features
 
